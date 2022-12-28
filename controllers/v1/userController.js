@@ -532,6 +532,7 @@ const bookingList = async function (req, res) {
       ticketId: 1,
       zone: 1,
       destination: 1,
+      source: 1,
       bookingDate: 1,
       isCancel: 1,
       user: 1,
